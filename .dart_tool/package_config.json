@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "animated_splash_screen",
+      "rootUri": "file:///home/kumala/.pub-cache/hosted/pub.dartlang.org/animated_splash_screen-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "async",
       "rootUri": "file:///home/kumala/.pub-cache/hosted/pub.dartlang.org/async-2.9.0",
       "packageUri": "lib/",
@@ -86,6 +92,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "page_transition",
+      "rootUri": "file:///home/kumala/.pub-cache/hosted/pub.dartlang.org/page_transition-2.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/kumala/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
       "packageUri": "lib/",
@@ -146,7 +158,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2022-12-29T06:51:19.915340Z",
+  "generated": "2022-12-29T07:34:00.672684Z",
   "generator": "pub",
   "generatorVersion": "2.19.0-146.2.beta"
 }
