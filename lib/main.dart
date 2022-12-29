@@ -2,8 +2,6 @@ import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_02/home.dart';
 
-import 'splash.dart';
-
 void main() {
   runApp(const MyApp());
 }
